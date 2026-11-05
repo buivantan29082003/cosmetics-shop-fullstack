@@ -68,12 +68,6 @@ Monitor incoming and outgoing product quantities.
 
 A full-stack e-commerce web application for selling cosmetics, developed using Spring Boot and ReactJS. The project focuses on building RESTful APIs, implementing authentication and authorization, managing product and order data, and integrating external services.
 
-## About Me
-
-I am Bui Van Len, an Information Systems graduate from Can Tho University. I have hands-on experience developing web applications using Java, Spring Boot, ReactJS, and MySQL. Through personal projects, I have gained experience in building RESTful APIs, developing database-driven applications, and integrating backend services.
-
-I am seeking opportunities in software development where I can apply my technical knowledge, further develop my skills, and contribute to real-world software projects.
-
 ## Technologies
 
 **Backend**
@@ -146,11 +140,7 @@ The project consists of two main parts:
 
 This project is developed for learning and practical software development experience. Some features and external service integrations may require additional configuration.
 
-## Author
-
-**Bui Van Len**
-
-- GitHub: [@buivanlen](https://github.com/buivanlen)
+Collaborator: Bui Van Len (Email: buivanlen@gmail.com | GitHub: @buivanlen)
 
 
 
